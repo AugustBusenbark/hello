@@ -7,5 +7,7 @@ Date: 2020/01/14
 int main(void) {
 	printf("Hello World!\n");
 	printf("Electrical Engineering\n");
+	printf("Diego Almanza Zavala\n");
+	printf("Electrical Engineering\n");
 	return 0;
 } 
